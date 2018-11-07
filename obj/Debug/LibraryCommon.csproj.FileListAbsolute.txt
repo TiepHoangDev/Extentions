@@ -1,0 +1,5 @@
+D:\PROJECT\C#\WF\ShopLinhKienDienTu\LibraryCommon\bin\Debug\LibraryCommon.dll
+D:\PROJECT\C#\WF\ShopLinhKienDienTu\LibraryCommon\bin\Debug\LibraryCommon.pdb
+D:\PROJECT\C#\WF\ShopLinhKienDienTu\LibraryCommon\obj\Debug\LibraryCommon.csproj.CoreCompileInputs.cache
+D:\PROJECT\C#\WF\ShopLinhKienDienTu\LibraryCommon\obj\Debug\LibraryCommon.dll
+D:\PROJECT\C#\WF\ShopLinhKienDienTu\LibraryCommon\obj\Debug\LibraryCommon.pdb

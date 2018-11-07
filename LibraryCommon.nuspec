@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Extentions</id>
+    <version>1.0.0</version>
+    <title>Extentions</title>
+    <authors>TiepHoang.DEV</authors>
+    <owners>TiepHoang.DEV</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>lib extention EmailSender, extention express, Log, SHA, MD5, stringhelper ToAscii from unicode ...</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Extentions TiepHoang</tags>
+  </metadata>
+  <files>
+    <file target="lib" src="bin/Debug/LibraryCommon.dll"></file>
+  </files>
+</package>
